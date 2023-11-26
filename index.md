@@ -10,9 +10,9 @@ layout: homepage
 
 ## Research Interests
 
-- **Autonomous Driving** 
-- **Collaborative Peception** 
-- **Efficient Machine Learning**
+- Autonomous Driving
+- Collaborative Peception
+- Efficient Machine Learning
 
 <!-- ## News
 

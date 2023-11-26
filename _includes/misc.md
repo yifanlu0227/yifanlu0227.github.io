@@ -5,7 +5,7 @@ I am a landscape photographer with more than 5 years of photography experience. 
 <div align="center">
 <img src="./assets/img/gallery/sichuanyunhai_.jpg" width="40%" >
 <br>
-<strong>2023.10.18</strong> I climbed over the mountain valley at an altitude of 4650m. The drone and I were both above the sea of clouds, waiting for the sunrise.
+<strong>2023.10.18</strong> I climbed over the mountain valley at an altitude of 4650m. The drone and I were both above the clouds, waiting for the sunrise.
 </div>
 
 
