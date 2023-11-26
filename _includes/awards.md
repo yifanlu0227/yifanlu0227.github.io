@@ -6,6 +6,6 @@
   <li><autocolor>2020-2021 China National Scholarship (ranking top 1)</autocolor></li>
   <li><autocolor>2020-2021 SJTU Scholarship A Prize</autocolor></li>
   <li><autocolor>2019-2020 Outstanding Undergraduate Excellence Scholarship</autocolor></li>
-  <li><autocolor>2018-2020 School Scholarship B Prize</autocolor></li>
+  <li><autocolor>2018-2020 SJTU Scholarship B Prize</autocolor></li>
 </ul>
 
