@@ -29,7 +29,9 @@ layout: homepage
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/misc.md %}
 
+<br>
 <script language="Javascript">
 var date = new Date(document.lastModified);
 document.write("Last modified: " + date.toLocaleDateString());
