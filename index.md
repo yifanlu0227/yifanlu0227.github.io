@@ -31,25 +31,6 @@ layout: homepage
 
 {% include_relative _includes/misc.md %}
 
-<div align="center">
-<img src="./assets/img/gallery/sichuanyunhai_.jpg" width=70% />
-
-**2022.10.18** I climbed over the mountain valley at an altitude of 4650m. The drone and I were both above the sea of clouds, waiting for the sunrise.
-</div>
-
-<div align="center">
-<img src="./assets/img/gallery/siguniangshan_.jpg" width=70% />
-
-**2023.10.17** I camped on Siguniang Shan and watched the stars. I saw the Milky Way hanging on Yaomei Peak.
-</div>
-
-<div align="center">
-<img src="./assets/img/gallery/huaniao_.jpg" width=70% />
-
-**2022.7.29** This is Flower-and-Bird Island in Zhejiang Province. The island is small but beautiful, just like its name.
-</div>
-
-
 <br>
 <script language="Javascript">
 var date = new Date(document.lastModified);
