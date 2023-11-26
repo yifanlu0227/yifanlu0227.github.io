@@ -5,14 +5,14 @@ I am a landscape photographer with more than 5 years of photography experience. 
 <div align="center">
 <img src="./assets/img/gallery/sichuanyunhai_.jpg" width="40%" >
 <br>
-<strong>2023.10.17</strong> I camped on Siguniang Shan and watched the stars. I saw the Milky Way hanging on Yaomei Peak.
+<strong>2023.10.18</strong> I climbed over the mountain valley at an altitude of 4650m. The drone and I were both above the sea of clouds, waiting for the sunrise.
 </div>
 
 
 <div align="center">
 <img src="./assets/img/gallery/siguniangshan_.jpg" width="40%" >
 <br>
-<strong>2023.10.17</strong> I camped on Siguniang Shan and watched the stars. I saw the Milky Way hanging on Yaomei Peak.
+<strong>2023.10.17</strong> I camped on Siguniang Shan and watched the stars in Sichuan Province. I saw the Milky Way hanging on Yaomei Peak.
 </div>
 
 <div align="center">
