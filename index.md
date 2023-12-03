@@ -12,7 +12,7 @@ layout: homepage
 
 - Autonomous Driving
 - Collaborative Peception
-- Efficient Machine Learning
+- Efficient Deep Learning
 
 <!-- ## News
 
