@@ -1,4 +1,12 @@
 main:
+  - title: "ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
+    authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, Yifan Lu<sup>*</sup>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (<sup>*</sup> equal contribution)
+    conference_short: Arxiv
+    conference: Arxiv
+    page: https://yifanlu0227.github.io/ChatSim
+    code: https://github.com/yifanlu0227/ChatSim
+    image: ./assets/img/arxiv_chatsim.jpg
+
   - title: Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
     authors: Sizhe Wei, Yuxi Wei, Yue Hu, <strong>Yifan Lu</strong>, Yiqi Zhong, Siheng Chen, Ya Zhang
     conference_short: NeurIPS
