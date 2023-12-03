@@ -1,6 +1,6 @@
 main:
   - title: "ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
-    authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, Yifan Lu<sup>*</sup>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (<sup>*</sup> equal contribution)
+    authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (* denotes equal contribution)
     conference_short: Arxiv
     conference: Arxiv
     page: https://yifanlu0227.github.io/ChatSim
