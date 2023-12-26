@@ -10,8 +10,8 @@ layout: homepage
 
 ## Research Interests
 
-- Autonomous Driving
-- Collaborative Peception
+- Autonomous Driving Simulation
+- Collaborative Perception
 - Efficient Deep Learning
 
 <!-- ## News
