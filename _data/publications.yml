@@ -1,4 +1,12 @@
 main:
+  - title: "An Extensible Framework for Open Heterogeneous Collaborative Perception"
+    authors: Yifan Lu, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://openreview.net/forum?id=KkrDUGIASk
+    code: https://github.com/yifanlu0227/HEAL
+    image: ./assets/img/iclr24_heal.jpg
+
   - title: "ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
     authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (* denotes equal contribution)
     conference_short: Arxiv
