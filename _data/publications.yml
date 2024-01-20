@@ -1,6 +1,6 @@
 main:
   - title: "An Extensible Framework for Open Heterogeneous Collaborative Perception"
-    authors: Yifan Lu, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang
+    authors: <strong>Yifan Lu</strong>, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/forum?id=KkrDUGIASk
