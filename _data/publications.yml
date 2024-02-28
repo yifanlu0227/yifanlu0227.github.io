@@ -1,4 +1,12 @@
 main:
+  - title: "ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
+    authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (* denotes equal contribution)
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    page: https://yifanlu0227.github.io/ChatSim
+    code: https://github.com/yifanlu0227/ChatSim
+    image: ./assets/img/arxiv_chatsim.jpg
+
   - title: "An Extensible Framework for Open Heterogeneous Collaborative Perception"
     authors: <strong>Yifan Lu</strong>, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang
     conference_short: ICLR
@@ -6,14 +14,6 @@ main:
     pdf: https://openreview.net/forum?id=KkrDUGIASk
     code: https://github.com/yifanlu0227/HEAL
     image: ./assets/img/iclr24_heal.jpg
-
-  - title: "ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
-    authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (* denotes equal contribution)
-    conference_short: Arxiv
-    conference: Arxiv
-    page: https://yifanlu0227.github.io/ChatSim
-    code: https://github.com/yifanlu0227/ChatSim
-    image: ./assets/img/arxiv_chatsim.jpg
 
   - title: Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
     authors: Sizhe Wei, Yuxi Wei, Yue Hu, <strong>Yifan Lu</strong>, Yiqi Zhong, Siheng Chen, Ya Zhang
