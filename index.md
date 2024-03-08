@@ -12,7 +12,7 @@ layout: homepage
 
 - Autonomous Driving Simulation
 - Collaborative Perception
-- Efficient Deep Learning
+- 3D Deep Learning
 
 <!-- ## News
 
