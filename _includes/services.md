@@ -5,7 +5,9 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, 2024</autocolor></li>
   <li><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2023</autocolor></li>
-  <li><autocolor>IEEE International Conference on Robotics and Automation (ICRA) 2024</autocolor></li>
+  <li><autocolor>The European Conference on Computer Vision (ECCV) 2024</autocolor></li>
+  <li><autocolor>IEEE International Conference on Robotics and Automation (ICRA) 2024, 2025</autocolor></li>
+  <li><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
