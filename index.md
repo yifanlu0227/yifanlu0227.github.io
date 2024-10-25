@@ -8,6 +8,8 @@ layout: homepage
 
 ## Experience
 
+I am an intern at NVIDIA for autonomous driving data generation, directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/). I work closely with [Xuanchi Ren](https://xuanchiren.com/), [Jiahui Huang](https://huangjh-pub.github.io/) and [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) from [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io/) for research and product.
+
 ## Research Interests
 
 - 3D Vision
