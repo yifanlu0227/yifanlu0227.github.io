@@ -1,6 +1,6 @@
 main:
   - title: "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
-    authors: Xuanchi Ren<sup>*</sup>, Yifan Lu<sup>*</sup>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
+    authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems, <strong>(NeurIPS)</strong>, 2024.
     pdf: https://research.nvidia.com/labs/toronto-ai/scube/
