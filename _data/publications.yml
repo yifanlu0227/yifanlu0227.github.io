@@ -1,11 +1,20 @@
 main:
+  - title: "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
+    authors: Xuanchi Ren<sup>*</sup>, Yifan Lu<sup>*</sup>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems, <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://research.nvidia.com/labs/toronto-ai/scube/
+    page: https://research.nvidia.com/labs/toronto-ai/scube/
+    code: https://research.nvidia.com/labs/toronto-ai/scube/
+    image: ./assets/img/nips24_scube.gif
+
   - title: "Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
     authors: Yuxi Wei<sup>*</sup>, Zi Wang<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Chenxin Xu<sup>*</sup>, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang (* denotes equal contribution)
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. (Highlight, 2.8% acceptance rate)
     page: https://yifanlu0227.github.io/ChatSim
     code: https://github.com/yifanlu0227/ChatSim
-    image: ./assets/img/arxiv_chatsim.jpg
+    image: ./assets/img/cvpr24_chatsim.gif
 
   - title: "An Extensible Framework for Open Heterogeneous Collaborative Perception"
     authors: <strong>Yifan Lu</strong>, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang

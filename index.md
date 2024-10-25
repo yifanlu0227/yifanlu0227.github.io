@@ -6,13 +6,13 @@ layout: homepage
 - **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2018-2022. Major in Computer Science and Engineering (IEEE Pilot Class), Ranking 7/134.
 - **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2022-2025 (expected). Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) Lab, supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
 
-
+## Experience
 
 ## Research Interests
 
+- 3D Vision
+- 3D Scene Reconstruction and Generation
 - Autonomous Driving Simulation
-- Collaborative Perception
-- 3D Deep Learning
 
 <!-- ## News
 
