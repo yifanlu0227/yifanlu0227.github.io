@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2018-2022. Major in Computer Science and Engineering (IEEE Pilot Class), Ranking 7/134.
+- **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2018-2022. Major in Computer Science and Engineering (IEEE Pilot Class).
 - **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2022-2025 (expected). Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) Lab, supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
 
 ## Experiences

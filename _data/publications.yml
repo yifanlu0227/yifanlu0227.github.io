@@ -3,9 +3,9 @@ main:
     authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems, <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://research.nvidia.com/labs/toronto-ai/scube/
+    pdf: https://research.nvidia.com/labs/toronto-ai/scube/assets/paper.pdf
     page: https://research.nvidia.com/labs/toronto-ai/scube/
-    code: https://research.nvidia.com/labs/toronto-ai/scube/
+    code: https://github.com/nv-tlabs/SCube
     image: ./assets/img/nips24_scube.gif
 
   - title: "Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
