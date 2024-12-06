@@ -1,4 +1,12 @@
 main:
+  - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
+    authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://research.nvidia.com/labs/toronto-ai/infinicube/assets/paper.pdf
+    page: https://research.nvidia.com/labs/toronto-ai/infinicube/
+    image: ./assets/img/arxiv_infinicube.gif
+
   - title: "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
     authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
     conference_short: NeurIPS
