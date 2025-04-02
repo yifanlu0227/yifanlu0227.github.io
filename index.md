@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 - **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2018-2022. Major in Computer Science and Engineering (IEEE Honor Class).
-- **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2022-2025 (expected). Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) Lab, supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
+- **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2022-2025. Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) Lab, supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
 
 ## Experiences
 I am an intern at NVIDIA for autonomous driving data generation, directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/). I work closely with [Xuanchi Ren](https://xuanchiren.com/), [Jiahui Huang](https://huangjh-pub.github.io/) and [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) from [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io/) on research and product work.

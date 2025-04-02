@@ -1,4 +1,20 @@
 main:
+  - title: "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control"
+    authors: NVIDIA
+    conference_short: Tech Report
+    conference: Technical Report
+    pdf: https://arxiv.org/abs/2503.14492
+    page: https://research.nvidia.com/labs/dir/cosmos-transfer1/
+    image: ./assets/img/cosmos-transfer1.gif
+
+  - title: "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control"
+    authors: Xuanchi Ren<sup>*</sup>, Tianchang Shen<sup>*</sup>, Jiahui Huang, Huan Ling, <strong>Yifan Lu</strong>, Merlin Nimier-David, Thomas Müller, Alexander Keller, Sanja Fidler, Jun Gao (* denotes equal contribution)
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://research.nvidia.com/labs/toronto-ai/GEN3C/paper.pdf
+    page: https://research.nvidia.com/labs/toronto-ai/GEN3C/
+    image: ./assets/img/cvpr25_gen3c.gif
+
   - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
     authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
     conference_short: Arxiv
