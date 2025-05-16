@@ -1,12 +1,11 @@
 main:
   - title: "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control"
-    authors: NVIDIA
-    notes: I curate the RDS-HQ dataset for Cosmos-Sample-AV training.
+    authors: NVIDIA <br>I curate the RDS-HQ dataset for Cosmos-Sample-AV training.
     conference_short: Tech Report
     conference: Technical Report
     pdf: https://arxiv.org/abs/2503.14492
     page: https://research.nvidia.com/labs/dir/cosmos-transfer1/
-    image: ./assets/img/cosmos-transfer1.gif
+    image: ./assets/img/cosmos-transfer1-update.gif
 
   - title: "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control"
     authors: Xuanchi Ren<sup>*</sup>, Tianchang Shen<sup>*</sup>, Jiahui Huang, Huan Ling, <strong>Yifan Lu</strong>, Merlin Nimier-David, Thomas Müller, Alexander Keller, Sanja Fidler, Jun Gao (* denotes equal contribution)
