@@ -1,6 +1,7 @@
 main:
   - title: "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control"
     authors: NVIDIA
+    notes: I curate the RDS-HQ dataset for Cosmos-Sample-AV training.
     conference_short: Tech Report
     conference: Technical Report
     pdf: https://arxiv.org/abs/2503.14492
