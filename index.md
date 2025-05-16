@@ -12,9 +12,8 @@ I am an intern at NVIDIA for autonomous driving data generation, directed by [Mi
 ## Research Interests
 
 - 3D Vision
-- 3D Scene Reconstruction and Generation
 - Autonomous Driving Simulation
-- Collaborative Perception
+- Autonomous Driving Perception
 
 <!-- ## News
 
