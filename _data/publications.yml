@@ -1,4 +1,12 @@
 main:
+  - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
+    authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://research.nvidia.com/labs/toronto-ai/infinicube/assets/paper.pdf
+    page: https://research.nvidia.com/labs/toronto-ai/infinicube/
+    image: ./assets/img/iccv25_infinicube.gif
+
   - title: "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control"
     authors: NVIDIA <br>I curate the <strong>RDS-HQ dataset</strong> for Cosmos-Transfer1-Sample-AV training; I develop <strong><a href="https://github.com/nv-tlabs/cosmos-av-sample-toolkits">Cosmos-AV-Sample-Toolkits</a></strong>.
     conference_short: Tech Report
@@ -14,14 +22,6 @@ main:
     pdf: https://research.nvidia.com/labs/toronto-ai/GEN3C/paper.pdf
     page: https://research.nvidia.com/labs/toronto-ai/GEN3C/
     image: ./assets/img/cvpr25_gen3c.gif
-
-  - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
-    authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://research.nvidia.com/labs/toronto-ai/infinicube/assets/paper.pdf
-    page: https://research.nvidia.com/labs/toronto-ai/infinicube/
-    image: ./assets/img/arxiv_infinicube.gif
 
   - title: "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
     authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
