@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 Yifan is an incoming PhD student at [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/), and a Machine Learning Engineer at [NVIDIA](https://www.nvidia.com/en-us/), directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/).
 He obtained his Bachelor’s (2018-2022) and Master’s (2022-2025) degrees in Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where he researched in the MediaBrain Lab under Prof. [Siheng Chen](https://siheng-chen.github.io/).
+
 Previously, he interned at NVIDIA, working on autonomous driving data generation alongside researchers from the [NVIDIA Toronto AI Lab](https://research.nvidia.com/labs/toronto-ai/) like [Xuanchi Ren](https://xuanchiren.com/), [Jiahui Huang](https://huangjh-pub.github.io/), and [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).
 
 ## Research Interests
