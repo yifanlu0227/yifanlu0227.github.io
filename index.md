@@ -3,11 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-- **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2018-2022. Major in Computer Science and Engineering (IEEE Honor Class).
-- **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2022-2025. Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) Lab, supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
-
-## Experiences
-I am an intern at NVIDIA for autonomous driving data generation, directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/). I work closely with [Xuanchi Ren](https://xuanchiren.com/), [Jiahui Huang](https://huangjh-pub.github.io/) and [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) from [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io/) on research and product work.
+Yifan is an incoming PhD student at University of Toronto, advised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/), and a Machine Learning Engineer at NVIDIA, directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/).
+He obtained his Bachelor’s (2018-2022) and Master’s (2022-2025) degrees in Computer Science and Engineering from Shanghai Jiao Tong University, where he researched in the MediaBrain Lab under Prof. [Siheng Chen](https://siheng-chen.github.io/).
+Previously, he interned at NVIDIA, working on autonomous driving data generation alongside researchers from the NVIDIA Toronto AI Lab like [Xuanchi Ren](https://xuanchiren.com/), [Jiahui Huang](https://huangjh-pub.github.io/), and [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).
 
 ## Research Interests
 
