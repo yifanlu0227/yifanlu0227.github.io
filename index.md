@@ -26,8 +26,6 @@ Previously, he interned at NVIDIA, working on autonomous driving data generation
 
 {% include_relative _includes/awards.md %}
 
-{% include_relative _includes/projects.md %}
-
 {% include_relative _includes/misc.md %}
 
 <br>
