@@ -1,4 +1,20 @@
 main:
+  - title: "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation" 
+    authors: Jay Zhangjie Wu<sup>*</sup>, Xuanchi Ren<sup>*</sup>, Tianchang Shen, Tianshi Cao, Kai He, <strong>Yifan Lu</strong>, Ruiyuan Gao, Enze Xie, Shiyi Lan, Jose M. Alvarez, Jun Gao, Sanja Fidler, Zian Wang, Huan Ling (* denotes equal contribution)
+    conference_short: Arxiv
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/abs/2510.04290
+    page: https://research.nvidia.com/labs/toronto-ai/chronoedit
+    image: ./assets/img/arxiv25_chronoedit.gif
+
+  - title: "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models"
+    authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Tianshi Cao<sup>*</sup>, Ruiyuan Gao<sup>*</sup>, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling (* denotes equal contribution)
+    conference_short: Tech Report
+    conference: Technical Report
+    pdf: https://arxiv.org/abs/2506.09042
+    page: https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/
+    image: ./assets/img/cosmos-drive-dreams.gif
+  
   - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
     authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
     conference_short: ICCV
