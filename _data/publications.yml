@@ -1,8 +1,24 @@
 main:
-  - title: "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation" 
-    authors: Jay Zhangjie Wu<sup>*</sup>, Xuanchi Ren<sup>*</sup>, Tianchang Shen, Tianshi Cao, Kai He, <strong>Yifan Lu</strong>, Ruiyuan Gao, Enze Xie, Shiyi Lan, Jose M. Alvarez, Jun Gao, Sanja Fidler, Zian Wang, Huan Ling (* denotes equal contribution)
+  - title: "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+    authors: <strong>Yifan Lu</strong>, Qi Wu, Jay Zhangjie Wu, Zian Wang, Huan Ling, Sanja Fidler, Xuanchi Ren
     conference_short: Arxiv
     conference: Arxiv Preprint
+    pdf: https://research.nvidia.com/labs/sil/pid/#
+    page: https://research.nvidia.com/labs/sil/pid/#
+    image: ./assets/img/pid.gif
+
+
+  - title: "Real-Time Generative Closed-Loop Autonomous Vehicle Simulation Built on NVIDIA Cosmos"
+    authors: Spatial Intelligence Lab, NVIDIA
+    conference_short: Tech Blog
+    conference: Technical Blog
+    page: https://research.nvidia.com/labs/sil/projects/omnidreams-blog/
+    image: ./assets/img/omnidream.gif
+
+  - title: "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation" 
+    authors: Jay Zhangjie Wu<sup>*</sup>, Xuanchi Ren<sup>*</sup>, Tianchang Shen, Tianshi Cao, Kai He, <strong>Yifan Lu</strong>, Ruiyuan Gao, Enze Xie, Shiyi Lan, Jose M. Alvarez, Jun Gao, Sanja Fidler, Zian Wang, Huan Ling (* denotes equal contribution)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.04290
     page: https://research.nvidia.com/labs/toronto-ai/chronoedit
     image: ./assets/img/arxiv25_chronoedit.gif
