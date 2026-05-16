@@ -111,11 +111,3 @@ main:
     image: ./assets/img/icra23_coalign.jpg
     # notes: Early Accept
     # bibtext: xxxx.txt
-
-  - title: "RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling"
-    authors: Xuanhong Chen, Kairui Feng, Naiyuan Liu, Bingbing Ni, <strong>Yifan Lu</strong> , Zhengyan Tong, Ziang Liu
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
-    pdf: https://arxiv.org/abs/2012.09700
-    page: https://neuralchen.github.io/RainNet/
-    image: ./assets/img/nips22_rainnet.jpg
