@@ -22,7 +22,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.04290
     page: https://research.nvidia.com/labs/toronto-ai/chronoedit
-    image: ./assets/img/arxiv25_chronoedit.gif
+    image: ./assets/img/chronoedit.gif
     code: https://github.com/nv-tlabs/ChronoEdit
 
   - title: "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models"
