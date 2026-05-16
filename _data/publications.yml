@@ -5,6 +5,7 @@ main:
     conference: Arxiv Preprint
     pdf: https://research.nvidia.com/labs/sil/projects/pid/#
     page: https://research.nvidia.com/labs/sil/projects/pid/#
+    code: https://research.nvidia.com/labs/sil/projects/pid/#
     image: ./assets/img/pid.gif
 
 
@@ -22,6 +23,7 @@ main:
     pdf: https://arxiv.org/abs/2510.04290
     page: https://research.nvidia.com/labs/toronto-ai/chronoedit
     image: ./assets/img/arxiv25_chronoedit.gif
+    code: https://github.com/nv-tlabs/ChronoEdit
 
   - title: "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models"
     authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Tianshi Cao<sup>*</sup>, Ruiyuan Gao<sup>*</sup>, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling (* denotes equal contribution)
@@ -30,6 +32,7 @@ main:
     pdf: https://arxiv.org/abs/2506.09042
     page: https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/
     image: ./assets/img/cosmos-drive-dreams.gif
+    code: https://github.com/nv-tlabs/Cosmos-Drive-Dreams
   
   - title: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
     authors: <strong>Yifan Lu<sup>*</sup></strong>, Xuanchi Ren<sup>*</sup>, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang (* denotes equal contribution)
@@ -38,6 +41,7 @@ main:
     pdf: https://research.nvidia.com/labs/toronto-ai/infinicube/assets/paper.pdf
     page: https://research.nvidia.com/labs/toronto-ai/infinicube/
     image: ./assets/img/iccv25_infinicube.gif
+    code: https://github.com/nv-tlabs/InfiniCube
 
   - title: "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control"
     authors: NVIDIA <br>I curate the <strong>RDS-HQ dataset</strong> for Cosmos-Transfer1-Sample-AV training; I develop <strong><a href="https://github.com/nv-tlabs/cosmos-av-sample-toolkits">Cosmos-AV-Sample-Toolkits</a></strong>.
@@ -46,6 +50,7 @@ main:
     pdf: https://arxiv.org/abs/2503.14492
     page: https://research.nvidia.com/labs/dir/cosmos-transfer1/
     image: ./assets/img/cosmos-transfer1-update.gif
+    code: https://github.com/nvidia-cosmos/cosmos-transfer1
 
   - title: "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control"
     authors: Xuanchi Ren<sup>*</sup>, Tianchang Shen<sup>*</sup>, Jiahui Huang, Huan Ling, <strong>Yifan Lu</strong>, Merlin Nimier-David, Thomas Müller, Alexander Keller, Sanja Fidler, Jun Gao (* denotes equal contribution)
@@ -54,6 +59,7 @@ main:
     pdf: https://research.nvidia.com/labs/toronto-ai/GEN3C/paper.pdf
     page: https://research.nvidia.com/labs/toronto-ai/GEN3C/
     image: ./assets/img/cvpr25_gen3c.gif
+    code: https://github.com/nv-tlabs/GEN3C
 
   - title: "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
     authors: Xuanchi Ren<sup>*</sup>, <strong>Yifan Lu<sup>*</sup></strong>, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang (* denotes equal contribution)
