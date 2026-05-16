@@ -3,10 +3,9 @@ layout: homepage
 ---
 
 ## About
-Yifan is an incoming PhD student at [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/), and also a researcher at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/).
-He obtained his Bachelor’s (2018-2022) and Master’s (2022-2025) degrees in Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where he researched in the MediaBrain Lab under Prof. [Siheng Chen](https://siheng-chen.github.io/).
+Yifan is an incoming PhD student at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/). He is also a researcher at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/).
 
-Previously, he interned at NVIDIA, working on autonomous driving 3D data generation.
+He received his Bachelor’s degree in 2022 and Master’s degree in 2025 in Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). Previously he interned at NVIDIA from 2024 to 2025, working on large-scale autonomous driving data curation, directed by [Mike Chen](https://www.linkedin.com/in/nvidia-mikechen/).
 
 ## Research Interests
 
