@@ -11,7 +11,7 @@ He received his Bachelor’s degree in 2022 and Master’s degree in 2025 in Com
 
 - Generative Models (image and video)
 - 3D Vision (3D generation and reconstruction)
-- Autonomous Driving Simulation and Perception
+- Autonomous Driving (Simulation and Perception)
 
 <!-- ## News
 
