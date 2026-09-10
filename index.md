@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 Yifan is a first-year PhD student at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/). He received his Bachelor’s degree in 2022 and Master’s degree in 2025 in Computer Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof. [Siheng Chen](https://siheng-chen.github.io/). 
 
-He was a researcher at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/), working on large-scale autonomous data curation, image and video generation. He participated in projects like Cosmos series, [OmniDreams](https://research.nvidia.com/labs/sil/projects/omnidreams-blog/) and [PiD](https://research.nvidia.com/labs/sil/projects/pid/).
+He was a researcher at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/), working on large-scale autonomous data curation, image and video generation. He participated in projects like [Cosmos series](https://www.nvidia.com/en-us/ai/cosmos/), [OmniDreams](https://research.nvidia.com/labs/sil/projects/omnidreams-blog/) and [PiD](https://research.nvidia.com/labs/sil/projects/pid/).
 
 ## Research Interests
 
