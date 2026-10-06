@@ -117,7 +117,7 @@ google_analytics: "" # 填写自己账号的 GA4 衡量 ID（G- 开头）；留�
 ## 仅自己可见的访问统计（GA4）
 
 主页使用 Google Analytics 4 记录访问，网页上不显示访问量，也不公开统计报表。
-`_config.yml` 中的 `google_analytics` 默认留空；填写自己账号的衡量 ID 并部署后才开始统计。
+`_config.yml` 中的 `google_analytics` 填写自己账号的衡量 ID，部署后开始统计；留空则关闭统计。
 原模板的 `UA-111540567-4` 是示例编号，旧版 Universal Analytics 已停止处理数据。
 
 ### 开启统计
