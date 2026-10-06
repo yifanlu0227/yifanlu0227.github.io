@@ -147,10 +147,13 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics 4 measurement ID from your own account (G-XXXXXXXXXX).
+# Leave empty to disable analytics. Reports are private to authorized Analytics users.
+google_analytics: ""
   ```
+
+Analytics runs only in production builds. See [the setup guide](README_zh_Hans.md#仅自己可见的访问统计ga4) for creating a web stream, restricting report access, and verifying collection.
+
 ### Edit `index.md`
 
 Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.

@@ -83,8 +83,8 @@ avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Google Analytics ID
-google_analytics: UA-111540567-4
+# Google Analytics 4 衡量 ID
+google_analytics: "" # 填写自己账号的 GA4 衡量 ID（G- 开头）；留空则关闭统计
   ```
 ### 编辑 `index.md`
 
@@ -113,6 +113,37 @@ google_analytics: UA-111540567-4
 2. 在你的项目中创建`/_layouts/homepage.html`文件
 3. 把第一步中复制的原始模板粘贴进去
 4. 根据自己的需求修改 html 文件
+
+## 仅自己可见的访问统计（GA4）
+
+主页使用 Google Analytics 4 记录访问，网页上不显示访问量，也不公开统计报表。
+`_config.yml` 中的 `google_analytics` 填写自己账号的衡量 ID，部署后开始统计；留空则关闭统计。
+原模板的 `UA-111540567-4` 是示例编号，旧版 Universal Analytics 已停止处理数据。
+
+### 开启统计
+
+1. 登录 [Google Analytics](https://analytics.google.com/)，创建自己的 Analytics 账号及 GA4 媒体资源（已有账号可直接创建媒体资源）。报表时区可选择 Toronto。
+2. 创建「网站 / Web」数据流，网址填 `https://yifanlu0227.github.io`。
+3. 复制数据流详情中的「衡量 ID / Measurement ID」（`G-` 开头），填入 `_config.yml`：
+
+   ```yaml
+   google_analytics: "G-你的实际编号"
+   ```
+
+4. 将改动部署到 GitHub Pages。代码仅在 Jekyll 的 `production` 环境加载；本地默认的 `jekyll serve` 不会记录访问。
+5. 访问一次上线后的主页，然后在 Analytics 的「实时」报表确认访问记录。Google 提示首次收集可能需要约 30 分钟；常规报表会更晚更新。
+
+### 保持报表仅自己可见
+
+- 在 Analytics 管理页面，检查「账号访问权限管理」和「媒体资源访问权限管理」，两处都只保留自己的账号，注意媒体资源会继承账号层面的权限。
+- 不添加其他用户、用户组或会授予他人访问权限的关联产品，不发布公开的报表或仪表盘。
+- `G-` 编号用于收集数据，会出现在公开网页源码中；它不是查看报表的凭证。不要把 Google 密码、API 密钥或服务账号凭证放进仓库。
+- 本站代码关闭了 Google Signals 和广告个性化信号；GA4 仍会将访问数据发送给 Google，并使用 Analytics Cookie。
+
+登录 [Google Analytics](https://analytics.google.com/) 后，可以查看浏览量、访客数、来源及趋势。统计从实际启用后开始，无法补回此前未记录的访问。
+如需停用，将 `google_analytics` 改回 `""` 并重新部署。
+
+参考：[Google 官方设置说明](https://support.google.com/analytics/answer/14183469?hl=zh-Hans)、[访问权限管理](https://support.google.com/analytics/answer/9305788?hl=zh-Hans)。
 
 ## 许可证
 
