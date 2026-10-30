@@ -6,7 +6,7 @@
     {% for app in site.data.apps %}
     <div class="free-apps-item" role="listitem">
       <a class="free-app-link" href="{{ app.url | relative_url }}" aria-label="{{ app.label | escape }}" title="{{ app.label | escape }}">
-        <img src="{{ app.icon | relative_url }}" width="44" height="44" alt="" decoding="async">
+        <img src="{{ app.icon | relative_url }}" width="33" height="33" alt="" decoding="async">
       </a>
     </div>
     {% endfor %}
