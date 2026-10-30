@@ -32,13 +32,17 @@
   let playing = !reducedMotion.matches;
   let inView = false;
 
-  function selectWord(word, highlight = true) {
+  function selectWord(word) {
     const entry = entries[word];
     if (!entry) return;
     document.getElementById('lookup-word').textContent = word;
     for (const key of ['phonetic', 'pos', 'definition', 'extra']) {
       document.getElementById('lookup-' + key).textContent = entry[key];
     }
+    highlightWord(word);
+  }
+
+  function highlightWord(word, highlight = true) {
     for (const button of words) {
       const active = highlight && button.dataset.word === word;
       button.classList.toggle('active', active);
@@ -64,7 +68,14 @@
       currentWord = word.dataset.word;
       stage.dataset.phase = phase;
       stateLabel.textContent = labels[phase];
-      selectWord(currentWord, phase === 'key' || phase === 'lookup');
+      // Keep the outgoing card's text and height intact throughout its fade.
+      // By the key phase, the previous card is fully hidden; lookup also covers
+      // direct entry from reduced-motion mode or resuming a manual selection.
+      if (phase === 'point') {
+        highlightWord(currentWord, false);
+      } else {
+        selectWord(currentWord);
+      }
       moveCursor(word, true);
       const step = phase;
       for (const item of stage.querySelectorAll('[data-step]')) {
