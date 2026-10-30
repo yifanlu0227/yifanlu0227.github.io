@@ -23,7 +23,7 @@
     lookup: '轻按，即刻看释义', manual: '还可以点击其他高亮单词',
     pause: '暂停', play: '播放', pauseLabel: '暂停动画', playLabel: '播放动画'
   };
-  const duration = 2600;
+  const duration = 1540;
   let elapsed = 0;
   let lastFrame = null;
   let frame = null;
