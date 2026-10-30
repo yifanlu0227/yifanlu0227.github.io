@@ -1,0 +1,60 @@
+/* Kept separate from the academic theme so both color modes use the same tray. */
+.free-apps {
+  max-width: 232px;
+  margin: 18px auto 24px;
+  text-align: center;
+}
+.free-apps-divider {
+  height: 0;
+  margin: 0 12px 12px;
+  border: 0;
+  border-top: 1px solid currentColor;
+  background: none;
+  opacity: .18;
+}
+.free-apps-heading {
+  margin: 0 0 15px;
+  color: inherit;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5;
+  white-space: nowrap;
+  opacity: .85;
+}
+.free-apps-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+.free-apps-item { flex: 0 0 auto; }
+.free-app-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  line-height: 1;
+}
+.free-app-link img {
+  display: block;
+  width: 44px;
+  height: 44px;
+  transform-origin: center bottom;
+}
+.free-app-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+.free-app-link.is-bouncing img {
+  animation: free-app-hop 600ms cubic-bezier(.35, 0, .35, 1);
+}
+@keyframes free-app-hop {
+  0%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-5px); }
+}
+@media (prefers-reduced-motion: reduce), print {
+  .free-app-link.is-bouncing img { animation: none; }
+}

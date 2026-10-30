@@ -1,0 +1,15 @@
+{% if site.data.apps.size > 0 %}
+<div class="free-apps" role="group" aria-labelledby="free-apps-heading">
+  <hr class="free-apps-divider" aria-hidden="true">
+  <p class="free-apps-heading" id="free-apps-heading">Vibed Free APP that might be useful to you</p>
+  <div class="free-apps-row" role="list">
+    {% for app in site.data.apps %}
+    <div class="free-apps-item" role="listitem">
+      <a class="free-app-link" href="{{ app.url | relative_url }}" aria-label="{{ app.label | escape }}" title="{{ app.label | escape }}">
+        <img src="{{ app.icon | relative_url }}" width="44" height="44" alt="" decoding="async">
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
