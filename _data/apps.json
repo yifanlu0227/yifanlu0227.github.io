@@ -3,6 +3,7 @@
     "name": "HoverLens",
     "label": "HoverLens - 悬浮翻译",
     "url": "/hoverlens/",
-    "icon": "/hoverlens/assets/app-icon.png"
+    "icon": "/hoverlens/assets/app-icon.png",
+    "label_html": "HoverLens - <strong>悬</strong>浮翻<strong>译</strong>"
   }
 ]

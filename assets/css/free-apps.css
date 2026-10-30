@@ -23,25 +23,29 @@
 }
 .free-apps-row {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 14px;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
 }
 .free-apps-item { flex: 0 0 auto; }
 .free-app-link {
   display: flex;
   align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  border-radius: 12px;
-  line-height: 1;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 48px;
+  padding: 4px 7px;
+  gap: 10px;
+  border-radius: 8px;
+  line-height: 1.4;
+  text-align: left;
 }
 .free-app-link img {
   display: block;
   width: 33px;
   height: 33px;
+  flex-shrink: 0;
   transform-origin: center bottom;
 }
 .free-app-link:focus-visible {
@@ -58,3 +62,7 @@
 @media (prefers-reduced-motion: reduce), print {
   .free-app-link.is-bouncing img { animation: none; }
 }
+
+.free-app-label { min-width: 0; font-size: inherit; }
+.free-app-label strong { color: inherit; font-weight: 700; }
+.free-app-link:hover .free-app-label { text-decoration: underline; text-underline-offset: 3px; }
