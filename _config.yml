@@ -8,7 +8,9 @@ email: yif.lu@mail.utoronto.ca
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yifan Lu
 description: Yifan Lu's homepage.
-canonical: https://minimal-light-theme.yliu.me/
+url: https://yifanlu0227.github.io
+baseurl: ""
+canonical: https://yifanlu0227.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
