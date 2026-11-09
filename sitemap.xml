@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yifanlu0227.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://yifanlu0227.github.io/hoverlens/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://yifanlu0227.github.io/hoverlens/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://yifanlu0227.github.io/hoverlens/en/"/>
-  </url>
-  <url>
-    <loc>https://yifanlu0227.github.io/hoverlens/en/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://yifanlu0227.github.io/hoverlens/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://yifanlu0227.github.io/hoverlens/en/"/>
   </url>
 </urlset>
